@@ -4,13 +4,13 @@ Rudraksha is an AI-powered personal assistant Telegram bot created by Gaurav Pan
 
 ## Features
 
-✅ Replies in English or Hindi (Roman script) based on the user's message.
-✅ Professional, concise, and slightly humorous responses.
-✅ Uses Groq AI (LLaMA 3.3 70B) for natural conversation.
-✅ Maintains conversation history for context.
-✅ Friendly and engaging with emojis.
-✅ Typing indicator for realistic chat experience.
-✅ Easy setup with JSON-based conversation storage.
+✅ Replies in English or Hindi (Roman script) based on the user's message.  
+✅ Professional, concise, and slightly humorous responses.  
+✅ Uses Groq AI (LLaMA 3.3 70B) for natural conversation.  
+✅ Maintains conversation history for context.  
+✅ Friendly and engaging with emojis.  
+✅ Typing indicator for realistic chat experience.  
+✅ Easy setup with JSON-based conversation storage.  
 
 ## Install dependencies:
 
