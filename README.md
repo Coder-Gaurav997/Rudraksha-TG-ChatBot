@@ -14,12 +14,15 @@ Rudraksha is an AI-powered personal assistant Telegram bot created by Gaurav Pan
 
 ## Install dependencies:
 
+```bash
 pip install telebot langdetect groq
+```
 
-Add your Telegram Bot Token and Groq API Key in bot.py:
+Add your Telegram Bot Token, Groq API and Serper API Key in .env:
 
 TG_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 GROQ_API_KEY = "YOUR_GROQ_API_KEY"
+SERPER_API_KEY = "YOUR_SERPER_API_KEY"
 
 Run the bot:
 ```bash
